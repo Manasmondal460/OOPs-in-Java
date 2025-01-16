@@ -1,3 +1,13 @@
+/*Encapsulation is a fundamental concept in object-oriented programming 
+that involves bundling the data (variables) and the methods (functions) 
+that operate on the data into a single unit, or class. 
+It is used to restrict direct access to some of an object's components, 
+which means the internal representation of an object cannot be seen from outside of the object's definition
+Only the object's own methods can inspect or manipulate its fields. This helps to protect the object's integrity by preventing unintended or harmful interference.*/
+
+
+
+
 // A class to represent a Student with encapsulation
 class Student {
     // Private fields to protect the data
